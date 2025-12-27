@@ -1,2 +1,2 @@
 # Lytre
-64-bit advanced debugger, 32-bit apps are not supported
+Advanced 64-bit debugger, 32-bit apps are not supported or debuggable
